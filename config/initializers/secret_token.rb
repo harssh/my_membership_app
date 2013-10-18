@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-MyMembershipApp::Application.config.secret_token = '08bb2fc46724da19aa0c651059ccc9ab6d55c7cb5dccbcc43cb62a39f3b51478f69c138873f33421cb6760a2d6d4afdb4d74d10bcd64daee10e840cb5b94e622'
+MyMembershipApp::Application.config.secret_token = '2e850db7a6351134ec5cd523a09c58a03c48db3080fa03163a5a5af160784fa39962a7d9a1a06010b7d3258dce19d66d6cb298be0211689ddeffa29b01d967fe'
